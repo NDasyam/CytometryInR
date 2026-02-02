@@ -37,6 +37,11 @@ Additionally, since all the material for this course is being hosted on a public
 
 In this walk-through, we will go through setting up a GitHub account, and make sure you are familiar with some of the elements and locations that we will be circling back to throughout the course. 
 :::
+
+![](/images/Placeholder.png)
+
+<br>
+
 ---
 
 # Getting Started
